@@ -109,59 +109,59 @@ BSP found on: https://github.com/fsd66/py-dungeon/
 ==========================================================================================
 
 01: Check your Python version.  
-01A:  
-python3 -V  
+  01A:  
+  python3 -V  
 
 02: Install the Tkinter library for Python on your system.  
-02A:  
-# apt install python3-tk  
+  02A:  
+  # apt install python3-tk  
 
 03: Install pip to later install the necessary libraries for the project.  
-03A:  
-# apt install pip (or apt install python3-pip)  
+  03A:  
+  # apt install pip (or apt install python3-pip)  
 
 04: Install python3-venv to be able to create Python virtual environments.  
 (This will avoid polluting your system installation with undesired libraries)  
-04A:  
-# apt install python3-venv  
+  04A:  
+  # apt install python3-venv  
 
 05: Create a Python virtual environment.  
-05A:  
-$ python3.9 -m venv test  
+  05A:  
+  $ python3.9 -m venv test  
 
 06: Execute the Python virtual environment.  
-06A:  
-$ cd test  
-$ source bin/activate  
+  06A:  
+  $ cd test  
+  $ source bin/activate  
 
 07: Clone the repository.  
-07A:  
-$ git clone https://github.com/dralobimene/v13_no_resources_for_github.git  
+  07A:  
+  $ git clone https://github.com/dralobimene/v13_no_resources_for_github.git  
 
 08: Move the files to the previous directory.  
-08A:  
-Copy the "jeu" folder and the pip_install.sh script into the "test" folder.  
-$ cp -R v13_no_resources_for_github/jeu/ /home/XXX/Documents/test/  
-$ cp v13_no_resources_for_github/pip_install.sh /home/XXX/Documents/test/  
-08B:  
-Delete the v13... directory and its contents. (BE CAREFUL WITH THIS COMMAND)  
-$ rm -rf v13_no_resources_for_github  
-08C:  
-Run the shell script ./pip_install.  
-$ ./pip_install.sh  
+  08A:  
+  Copy the "jeu" folder and the pip_install.sh script into the "test" folder.  
+  $ cp -R v13_no_resources_for_github/jeu/ /home/XXX/Documents/test/  
+  $ cp v13_no_resources_for_github/pip_install.sh /home/XXX/Documents/test/  
+  08B:  
+  Delete the v13... directory and its contents. (BE CAREFUL WITH THIS COMMAND)  
+  $ rm -rf v13_no_resources_for_github  
+  08C:  
+  Run the shell script ./pip_install.  
+  $ ./pip_install.sh  
 
-09: Go to the "jeu" directory.  
-$ cd jeu  
+  09: Go to the "jeu" directory.  
+  $ cd jeu  
 
-08: Execute the project.  
-08A:  
-$ cd jeu  
-$ PYTHONPATH="/home/XXX/Documents/test/jeu" python3.9 /home/XXX/Documents/test/jeu/introduction.py  
+  08: Execute the project.  
+  08A:  
+  $ cd jeu  
+  $ PYTHONPATH="/home/XXX/Documents/test/jeu" python3.9 /home/XXX/Documents/test/jeu/introduction.py  
 
 WHEN YOU ARE DONE HAVING FUN  
 
 09: Exit the Python virtual environment.  
-$ deactivate  
+  $ deactivate  
 
 10: Delete the "test" directory.  
-$ rm -rf test (BE CAREFUL WITH THIS COMMAND)  
+  $ rm -rf test (BE CAREFUL WITH THIS COMMAND)  
