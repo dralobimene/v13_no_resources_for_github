@@ -55,8 +55,8 @@ BSP trouvé sur: https://github.com/fsd66/py-dungeon/
 08: Déplacer les fichiers dans le repertoire précédent.  
 	08A:  
 	Copier le rep "jeu" et le script pip_install.sh ds le rep "test".  
-		$ cp -R v13_no_resources_for_github/jeu/ /home/server/Documents/test/  
-		$ cp v13_no_resources_for_github/pip_install.sh /home/server/Documents/test/  
+		$ cp -R v13_no_resources_for_github/jeu/ /home/XXX/Documents/test/  
+		$ cp v13_no_resources_for_github/pip_install.sh /home/XXX/Documents/test/  
 	08B:  
 	Effacer le rep v13... et son contenu. (ATTENTION AVEC CETTE COMMANDE)  
 		$ rm -rf v13_no_resources_for_github  
@@ -70,7 +70,7 @@ BSP trouvé sur: https://github.com/fsd66/py-dungeon/
 08: Executer le projet.  
 	08A:  
 	$ cd jeu  
-	$ PYTHONPATH="/home/server/Documents/test/jeu" python3.9 /home/server/Documents/test/jeu/introduction.py  
+	$ PYTHONPATH="/home/XXX/Documents/test/jeu" python3.9 /home/XXX/Documents/test/jeu/introduction.py  
 
 QUAND VOUS AVEZ TERMINÉ DE VOUS AMUSER  
 
@@ -141,8 +141,8 @@ $ git clone https://github.com/dralobimene/v13_no_resources_for_github.git
 08: Move the files to the previous directory.  
 08A:  
 Copy the "jeu" folder and the pip_install.sh script into the "test" folder.  
-$ cp -R v13_no_resources_for_github/jeu/ /home/server/Documents/test/  
-$ cp v13_no_resources_for_github/pip_install.sh /home/server/Documents/test/  
+$ cp -R v13_no_resources_for_github/jeu/ /home/XXX/Documents/test/  
+$ cp v13_no_resources_for_github/pip_install.sh /home/XXX/Documents/test/  
 08B:  
 Delete the v13... directory and its contents. (BE CAREFUL WITH THIS COMMAND)  
 $ rm -rf v13_no_resources_for_github  
@@ -156,7 +156,7 @@ $ cd jeu
 08: Execute the project.  
 08A:  
 $ cd jeu  
-$ PYTHONPATH="/home/server/Documents/test/jeu" python3.9 /home/server/Documents/test/jeu/introduction.py  
+$ PYTHONPATH="/home/XXX/Documents/test/jeu" python3.9 /home/XXX/Documents/test/jeu/introduction.py  
 
 WHEN YOU ARE DONE HAVING FUN  
 
