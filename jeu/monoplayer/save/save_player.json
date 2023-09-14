@@ -1,0 +1,19 @@
+{
+    "name": "trteterte",
+    "attack": 43,
+    "defense": 77,
+    "life": 76,
+    "max_life_authorized": 76,
+    "position": [
+        496,
+        256
+    ],
+    "color": [
+        0,
+        255,
+        0
+    ],
+    "radius": 8,
+    "speed": 16,
+    "stair_actuel": "monoplayer/save/stairs_json/stair_1.json"
+}

@@ -1,0 +1,226 @@
+{
+  "Monsters": {
+    "Insects": [
+      {
+        "Type": "Coccinelles",
+        "Name": "Coccinelle_rouge",
+        "PicturesPaths": {
+          "va_en_haut": [
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_haut/coccinelle01.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_haut/coccinelle02.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_haut/coccinelle03.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_haut/coccinelle04.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_haut/coccinelle05.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_haut/coccinelle06.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_haut/coccinelle07.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_haut/coccinelle08.png"
+          ],
+          "va_a_droite": [
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_droite/coccinelle01.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_droite/coccinelle02.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_droite/coccinelle03.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_droite/coccinelle04.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_droite/coccinelle05.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_droite/coccinelle06.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_droite/coccinelle07.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_droite/coccinelle08.png"
+          ],
+          "va_en_bas": [
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_bas/coccinelle01.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_bas/coccinelle02.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_bas/coccinelle03.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_bas/coccinelle04.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_bas/coccinelle05.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_bas/coccinelle06.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_bas/coccinelle07.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_en_bas/coccinelle08.png"
+          ],
+          "va_a_gauche": [
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_gauche/coccinelle01.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_gauche/coccinelle02.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_gauche/coccinelle03.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_gauche/coccinelle04.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_gauche/coccinelle05.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_gauche/coccinelle06.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_gauche/coccinelle07.png",
+            "images/coccinelle/sequence_animation_coccinelle_01/va_a_gauche/coccinelle08.png"
+          ]
+        }
+      },
+      {
+        "Type": "Fourmis",
+        "Name": "Fourmi_rouge",
+        "PicturesPaths": {
+          "va_en_haut": [
+            "images/fourmi/sequence_animation_fourmi_01/va_en_haut/fourmi01.png",
+            "images/fourmi/sequence_animation_fourmi_01/va_en_haut/fourmi02.png",
+            "images/fourmi/sequence_animation_fourmi_01/va_en_haut/fourmi03.png"
+          ],
+          "va_a_droite": [
+            "images/fourmi/sequence_animation_fourmi_01/va_a_droite/fourmi01.png",
+            "images/fourmi/sequence_animation_fourmi_01/va_a_droite/fourmi02.png",
+            "images/fourmi/sequence_animation_fourmi_01/va_a_droite/fourmi03.png"
+          ],
+          "va_en_bas": [
+            "images/fourmi/sequence_animation_fourmi_01/va_en_bas/fourmi01.png",
+            "images/fourmi/sequence_animation_fourmi_01/va_en_bas/fourmi02.png",
+            "images/fourmi/sequence_animation_fourmi_01/va_en_bas/fourmi03.png"
+          ],
+          "va_a_gauche": [
+            "images/fourmi/sequence_animation_fourmi_01/va_a_gauche/fourmi01.png",
+            "images/fourmi/sequence_animation_fourmi_01/va_a_gauche/fourmi02.png",
+            "images/fourmi/sequence_animation_fourmi_01/va_a_gauche/fourmi03.png"
+          ]
+        }
+      },
+      {
+        "Type": "PrayingMantis",
+        "Name": "MalePrayingMantis",
+        "PicturesPaths": {
+          "va_en_haut": [
+            "images/mante_religieuse_noire/va_en_haut/01.png",
+            "images/mante_religieuse_noire/va_en_haut/02.png",
+            "images/mante_religieuse_noire/va_en_haut/03.png",
+            "images/mante_religieuse_noire/va_en_haut/04.png",
+            "images/mante_religieuse_noire/va_en_haut/05.png",
+            "images/mante_religieuse_noire/va_en_haut/06.png",
+            "images/mante_religieuse_noire/va_en_haut/07.png",
+            "images/mante_religieuse_noire/va_en_haut/08.png",
+            "images/mante_religieuse_noire/va_en_haut/09.png",
+            "images/mante_religieuse_noire/va_en_haut/10.png",
+            "images/mante_religieuse_noire/va_en_haut/11.png",
+            "images/mante_religieuse_noire/va_en_haut/12.png",
+            "images/mante_religieuse_noire/va_en_haut/13.png",
+            "images/mante_religieuse_noire/va_en_haut/14.png",
+            "images/mante_religieuse_noire/va_en_haut/15.png"
+          ],
+          "va_a_droite": [
+            "images/mante_religieuse_noire/va_a_droite/01.png",
+            "images/mante_religieuse_noire/va_a_droite/02.png",
+            "images/mante_religieuse_noire/va_a_droite/03.png",
+            "images/mante_religieuse_noire/va_a_droite/04.png",
+            "images/mante_religieuse_noire/va_a_droite/05.png",
+            "images/mante_religieuse_noire/va_a_droite/06.png",
+            "images/mante_religieuse_noire/va_a_droite/07.png",
+            "images/mante_religieuse_noire/va_a_droite/08.png",
+            "images/mante_religieuse_noire/va_a_droite/09.png",
+            "images/mante_religieuse_noire/va_a_droite/10.png",
+            "images/mante_religieuse_noire/va_a_droite/11.png",
+            "images/mante_religieuse_noire/va_a_droite/12.png",
+            "images/mante_religieuse_noire/va_a_droite/13.png",
+            "images/mante_religieuse_noire/va_a_droite/14.png",
+            "images/mante_religieuse_noire/va_a_droite/15.png"
+          ],
+          "va_en_bas": [
+            "images/mante_religieuse_noire/va_en_bas/01.png",
+            "images/mante_religieuse_noire/va_en_bas/02.png",
+            "images/mante_religieuse_noire/va_en_bas/03.png",
+            "images/mante_religieuse_noire/va_en_bas/04.png",
+            "images/mante_religieuse_noire/va_en_bas/05.png",
+            "images/mante_religieuse_noire/va_en_bas/06.png",
+            "images/mante_religieuse_noire/va_en_bas/07.png",
+            "images/mante_religieuse_noire/va_en_bas/08.png",
+            "images/mante_religieuse_noire/va_en_bas/09.png",
+            "images/mante_religieuse_noire/va_en_bas/10.png",
+            "images/mante_religieuse_noire/va_en_bas/11.png",
+            "images/mante_religieuse_noire/va_en_bas/12.png",
+            "images/mante_religieuse_noire/va_en_bas/13.png",
+            "images/mante_religieuse_noire/va_en_bas/14.png",
+            "images/mante_religieuse_noire/va_en_bas/15.png"
+          ],
+          "va_a_gauche": [
+            "images/mante_religieuse_noire/va_a_gauche/01.png",
+            "images/mante_religieuse_noire/va_a_gauche/02.png",
+            "images/mante_religieuse_noire/va_a_gauche/03.png",
+            "images/mante_religieuse_noire/va_a_gauche/04.png",
+            "images/mante_religieuse_noire/va_a_gauche/05.png",
+            "images/mante_religieuse_noire/va_a_gauche/06.png",
+            "images/mante_religieuse_noire/va_a_gauche/07.png",
+            "images/mante_religieuse_noire/va_a_gauche/08.png",
+            "images/mante_religieuse_noire/va_a_gauche/09.png",
+            "images/mante_religieuse_noire/va_a_gauche/10.png",
+            "images/mante_religieuse_noire/va_a_gauche/11.png",
+            "images/mante_religieuse_noire/va_a_gauche/12.png",
+            "images/mante_religieuse_noire/va_a_gauche/13.png",
+            "images/mante_religieuse_noire/va_a_gauche/14.png",
+            "images/mante_religieuse_noire/va_a_gauche/15.png"
+          ]
+        }
+      },
+      {
+        "Type": "PrayingMantis",
+        "Name": "FemalePrayingMantis",
+        "PicturesPaths": {
+          "va_en_haut": [
+            "images/mante_religieuse_rouge/va_en_haut/01.png",
+            "images/mante_religieuse_rouge/va_en_haut/02.png",
+            "images/mante_religieuse_rouge/va_en_haut/03.png",
+            "images/mante_religieuse_rouge/va_en_haut/04.png",
+            "images/mante_religieuse_rouge/va_en_haut/05.png",
+            "images/mante_religieuse_rouge/va_en_haut/06.png",
+            "images/mante_religieuse_rouge/va_en_haut/07.png",
+            "images/mante_religieuse_rouge/va_en_haut/08.png",
+            "images/mante_religieuse_rouge/va_en_haut/09.png",
+            "images/mante_religieuse_rouge/va_en_haut/10.png",
+            "images/mante_religieuse_rouge/va_en_haut/11.png",
+            "images/mante_religieuse_rouge/va_en_haut/12.png",
+            "images/mante_religieuse_rouge/va_en_haut/13.png",
+            "images/mante_religieuse_rouge/va_en_haut/14.png",
+            "images/mante_religieuse_rouge/va_en_haut/15.png"
+          ],
+          "va_a_droite": [
+            "images/mante_religieuse_rouge/va_a_droite/01.png",
+            "images/mante_religieuse_rouge/va_a_droite/02.png",
+            "images/mante_religieuse_rouge/va_a_droite/03.png",
+            "images/mante_religieuse_rouge/va_a_droite/04.png",
+            "images/mante_religieuse_rouge/va_a_droite/05.png",
+            "images/mante_religieuse_rouge/va_a_droite/06.png",
+            "images/mante_religieuse_rouge/va_a_droite/07.png",
+            "images/mante_religieuse_rouge/va_a_droite/08.png",
+            "images/mante_religieuse_rouge/va_a_droite/09.png",
+            "images/mante_religieuse_rouge/va_a_droite/10.png",
+            "images/mante_religieuse_rouge/va_a_droite/11.png",
+            "images/mante_religieuse_rouge/va_a_droite/12.png",
+            "images/mante_religieuse_rouge/va_a_droite/13.png",
+            "images/mante_religieuse_rouge/va_a_droite/14.png",
+            "images/mante_religieuse_rouge/va_a_droite/15.png"
+          ],
+          "va_en_bas": [
+            "images/mante_religieuse_rouge/va_en_bas/01.png",
+            "images/mante_religieuse_rouge/va_en_bas/02.png",
+            "images/mante_religieuse_rouge/va_en_bas/03.png",
+            "images/mante_religieuse_rouge/va_en_bas/04.png",
+            "images/mante_religieuse_rouge/va_en_bas/05.png",
+            "images/mante_religieuse_rouge/va_en_bas/06.png",
+            "images/mante_religieuse_rouge/va_en_bas/07.png",
+            "images/mante_religieuse_rouge/va_en_bas/08.png",
+            "images/mante_religieuse_rouge/va_en_bas/09.png",
+            "images/mante_religieuse_rouge/va_en_bas/10.png",
+            "images/mante_religieuse_rouge/va_en_bas/11.png",
+            "images/mante_religieuse_rouge/va_en_bas/12.png",
+            "images/mante_religieuse_rouge/va_en_bas/13.png",
+            "images/mante_religieuse_rouge/va_en_bas/14.png",
+            "images/mante_religieuse_rouge/va_en_bas/15.png"
+          ],
+          "va_a_gauche": [
+            "images/mante_religieuse_rouge/va_a_gauche/01.png",
+            "images/mante_religieuse_rouge/va_a_gauche/02.png",
+            "images/mante_religieuse_rouge/va_a_gauche/03.png",
+            "images/mante_religieuse_rouge/va_a_gauche/04.png",
+            "images/mante_religieuse_rouge/va_a_gauche/05.png",
+            "images/mante_religieuse_rouge/va_a_gauche/06.png",
+            "images/mante_religieuse_rouge/va_a_gauche/07.png",
+            "images/mante_religieuse_rouge/va_a_gauche/08.png",
+            "images/mante_religieuse_rouge/va_a_gauche/09.png",
+            "images/mante_religieuse_rouge/va_a_gauche/10.png",
+            "images/mante_religieuse_rouge/va_a_gauche/11.png",
+            "images/mante_religieuse_rouge/va_a_gauche/12.png",
+            "images/mante_religieuse_rouge/va_a_gauche/13.png",
+            "images/mante_religieuse_rouge/va_a_gauche/14.png",
+            "images/mante_religieuse_rouge/va_a_gauche/15.png"
+          ]
+        }
+      }
+    ]
+  }
+}
